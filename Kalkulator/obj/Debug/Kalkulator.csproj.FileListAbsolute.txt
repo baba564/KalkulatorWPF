@@ -1,0 +1,84 @@
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\obj\Debug\Views\MainWindow.g.cs
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\obj\Debug\Views\MainWindow.baml
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\bin\Debug\ControlzEx.dll
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\bin\Debug\MahApps.Metro.dll
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\bin\Debug\ControlzEx.pdb
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\bin\Debug\ControlzEx.xml
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\bin\Debug\MahApps.Metro.pdb
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\bin\Debug\MahApps.Metro.xml
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\obj\Debug\App.baml
+C:\Users\User\Desktop\Programy github\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CopyComplete
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\bin\Debug\ControlzEx.dll
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\bin\Debug\MahApps.Metro.dll
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\bin\Debug\ControlzEx.pdb
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\bin\Debug\ControlzEx.xml
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\bin\Debug\MahApps.Metro.pdb
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\bin\Debug\MahApps.Metro.xml
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\obj\Debug\Views\MainWindow.g.cs
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\obj\Debug\App.baml
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\obj\Debug\Views\MainWindow.baml
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\obj\Debug\Kalkulator.csproj.CopyComplete
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\User\Desktop\Programy github\Kalkulator2\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\bin\Debug\ControlzEx.dll
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\bin\Debug\MahApps.Metro.dll
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\bin\Debug\ControlzEx.pdb
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\bin\Debug\ControlzEx.xml
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\bin\Debug\MahApps.Metro.pdb
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\bin\Debug\MahApps.Metro.xml
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\obj\Debug\Views\MainWindow.g.cs
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\obj\Debug\App.g.cs
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\obj\Debug\App.baml
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\obj\Debug\Views\MainWindow.baml
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\obj\Debug\Kalkulator.csproj.CopyComplete
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\User\Desktop\gitHub\KalkulatorWPF\Kalkulator\obj\Debug\Kalkulator.pdb
